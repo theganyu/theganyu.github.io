@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Gan Yu"
+description              : "I am who I am. "
+repository               : "theganyu/theganyu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Gan Yu"
+  avatar           : "images/profile.png"
+  bio              : "University of Macau"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.sg/citations?hl=en&pli=1&user=VPc2mpcAAAAJ"
+  email            : "ganyu@um.edu.mo"
+  researchgate     : "https://www.researchgate.net/profile/Gan-Yu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -55,9 +55,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0"
   wikipedia        :
-
+  bilibili         : "https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0"
 
 # Reading Files
 include:

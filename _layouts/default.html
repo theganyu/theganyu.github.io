@@ -11,6 +11,18 @@ layout: compress
 
   <body>
 
+    <!–– for go to top button, see options at: https://github.com/vfeskov/vanilla-back-to-top/blob/v7.2.1/EXAMPLES.md ––>  
+    <script src="{{'/assets/js/up_button.js'}}"></script>
+    <script>addBackToTop({
+      diameter: 50,
+      backgroundColor: 'rgb(170, 47, 170)',
+      textColor: '#fff'
+    })</script>
+
+    <!–– for progress bar ––>   
+    <script src="{{ '/assets/js/progressbar.js' | absolute_url }}"></script>
+      <div id="progress-bar"></div>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -28,6 +40,12 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <!–– for visit counter ––>
+    <a href="https://www.easycounter.com/">
+    <img src="https://www.easycounter.com/counter.php?davidyugan"
+    border="0" alt="Website Hit Counters"></a>
+    unique visitors
 
   </body>
 </html>
