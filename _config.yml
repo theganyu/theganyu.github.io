@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Gan Yu"
-description              : "I am who I am. "
+description              : ""
 repository               : "theganyu/theganyu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Macau, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?hl=en&pli=1&user=VPc2mpcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en"
   email            : "ganyu@um.edu.mo"
   researchgate     : "https://www.researchgate.net/profile/Gan-Yu-2"
   uri              :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0"
+  youtube          :
   wikipedia        :
   bilibili         : "https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0"
 

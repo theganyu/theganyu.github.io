@@ -22,16 +22,21 @@ redirect_from:
 
 {% include_relative includes/research.md %}
 
-{% include_relative includes/awards.md %}
+{% include_relative includes/education.md %}
 
-{% include_relative includes/educations.md %}
+{% include_relative includes/awards.md %}
 
 {% include_relative includes/invited_talks.md %}
 
-{% %}
-
 <center>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-4NCtYeRigQS9DpeddzMGvyE0COf2qYlcbrEAfCB3_o&cl=ffffff&w=a"></script>
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w= 250&t=n&d=YaCEqTabkGhXbc9_VZFvuWg-a-Mfu1nj3xCZZdWZ5SY'></script>
 <br> &copy; Gan Yu | Last updated: Sep, 2023
 </center>
+
+<!---  
+    <a href="https://www.easycounter.com/">
+    <img src="https://www.easycounter.com/counter.php?davidyugan"
+    border="0" alt="Website Hit Counters"></a>
+    unique visitors.  
+ -->

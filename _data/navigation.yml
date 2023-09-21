@@ -6,18 +6,18 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: Research
+  - title: "Research"
     sublinks:
-      - title: Description
+      - title: Highlights
         url: "/#research"
       - title: Complete publication list
-        url: /publications/
+        url: https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en
+
+  - title: "Education"
+    url: "/#education"
 
   - title: "Awards"
     url: "/#awards"
-
-  - title: "Educations"
-    url: "/#educations"
 
   - title: "Invited Talks"
     url: "/#invited-talks"
