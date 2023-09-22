@@ -2,7 +2,12 @@
 
 ## Research (highlights)
 
-The complete list of my research publications can be found at <a href='https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and supplementary experimental videos are available at <a href='https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0'><img src="/images/bilibili.svg" width="2%"></a>.
+The complete list of my research publications can be found at <a href='https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and supplementary experimental videos are available at <a href='https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0'><img src="https://bilistats.lonelyion.com/followers?uid=1990879898&label=subscribers&label_color=f6f6f6&logo_color=fb7299&style=flat&color=9cf"/></a>.
+
+
+
+
+
 
 
 
@@ -43,7 +48,7 @@ The problem of trajectory tracking control of a quadrotor-slung-load system is a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/load_window.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/load_window.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aggressive maneuvers for a quadrotor-slung-load system through fast trajectory generation and tracking](https://www.sciencedirect.com/science/article/abs/pii/S0005109823003084), **Gan Yu**, David Cabecinhas, Rita Cunha, and Carlos Silvestre, Autonomous Robots, 2022 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:3fE2CSJIrl8C'></span></strong>
@@ -56,7 +61,7 @@ We propose a framework to efficiently generate aggressive load-swing trajectorie
 
 #### Flying Inverted Pendulum Balanced on a Quadrotor
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pendulum.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pendulum.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Robust Nonlinear 3D Control of an Inverted Pendulum Balanced on a Quadrotor, Weiming Yang, **Gan Yu**, Joel Reis, and Carlos Silvestre, Automatica, 2023
