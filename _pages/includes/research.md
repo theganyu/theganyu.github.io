@@ -2,7 +2,7 @@
 
 ## Research (highlights)
 
-The complete list of my research publications can be found at <a href='https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and supplementary experimental videos are available at <a href='https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0'><img src="https://bilistats.lonelyion.com/followers?uid=1990879898&label=subscribers&label_color=f6f6f6&logo_color=fb7299&style=flat&color=9cf"/></a>.
+The complete list of my research publications can be found at <a href='https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and supplementary experimental videos are available at <a href='https://space.bilibili.com/1990879898?spm_id_from=333.1007.0.0'><img src="https://bilistats.lonelyion.com/followers?uid=1990879898&label=subscribers&label_color=f6f6f6&logo_color=fb7299&style=flat&color=9cf"></a>.
 
 
 
