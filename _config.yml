@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Gan Yu"
   avatar           : "images/profile.jpeg"
-  bio              : "University of Macau"
-  location         : "Macau, China"
+  bio              : "Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VPc2mpcAAAAJ&hl=en"
-  email            : "ganyu@um.edu.mo"
+  email            : "sjtuganyu@sjtu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Gan-Yu-2"
   uri              :
   bitbucket        :
