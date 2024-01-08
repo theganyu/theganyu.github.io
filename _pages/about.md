@@ -31,7 +31,7 @@ redirect_from:
 <center>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w= 250&t=n&d=YaCEqTabkGhXbc9_VZFvuWg-a-Mfu1nj3xCZZdWZ5SY'></script>
-<br> &copy; Gan Yu | Last updated: Sep, 2023
+<br> &copy; Gan Yu | Last updated: Jan, 2024
 </center>
 
 <!---  
