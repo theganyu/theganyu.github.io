@@ -2,6 +2,8 @@
 
 # News
 
+- *March 5, 2024*, our manuscript titled "Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities" has been accepted for publication in **IEEE Transactions on Intelligent Transportation Systems**.
+
 - *January 3, 2024*, our manuscript titled "Robust Collision-free Formation Control of Quadrotor Fleets: Trajectory Generation and Tracking with Experimental Validation" has been accepted for publication in **Control Engineering Practice**.
 
 - *January 1, 2024*, started a new chapter at Shanghai Jiao Tong University.
