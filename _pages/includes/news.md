@@ -2,6 +2,8 @@
 
 # News
 
+- *March 6, 2024*, we will be presenting two of our works at **ICRA2024**.
+
 - *March 5, 2024*, our manuscript titled "Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities" has been accepted for publication in **IEEE Transactions on Intelligent Transportation Systems**.
 
 - *January 3, 2024*, our manuscript titled "Robust Collision-free Formation Control of Quadrotor Fleets: Trajectory Generation and Tracking with Experimental Validation" has been accepted for publication in **Control Engineering Practice**.
