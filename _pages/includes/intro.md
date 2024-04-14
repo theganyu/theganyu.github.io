@@ -12,4 +12,4 @@ Should you be interested in collaborating with me as a Ph.D. student or Postdoct
 I specialize in the automation of robotic systems, with a specific emphasis on quadrotor unmanned aerial vehicles. My research endeavors within this discipline encompass a comprehensive investigation into the domains of control, estimation, and motion planning, aiming to advance this field with innovative insights and practical solutions.
 
 <img src='images/校标-校徽.png' alt="sym" width="5.5%">
-<img src='images/实验室logo常用版本.png' alt="sym" width="7.7%">
+<img src='images/实验室logo常用版本_Optimizer.pdf' alt="sym" width="7.7%">
