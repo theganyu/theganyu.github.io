@@ -58,6 +58,20 @@ We propose a framework to efficiently generate aggressive load-swing trajectorie
 </div>
 </div>
 
+#### Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/multi-quad-load.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities](https://ieeexplore.ieee.org/abstract/document/8768020), 
+Yanhu Wang, **Gan Yu**, Wei Xie, Weidong Zhang, and Carlos Silvestre, IEEE Transactions on Intelligent Transportation Systems, 2024 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:MXK_kJrjxJIC'></span></strong>
+
+We investigate the tracking control of a multi-quadrotor slung-load system (MQSLS) and introduce a novel force distribution algorithm, which bifurcates the cooperative control to two distinct components: slung-load position control; and cable configuration control along with quadrotor attitude control. Employing this strategy results in a cooperative controller that: (i) relaxes the constraints on cable configuration; and (ii) requires only up to the third time derivative of the reference trajectory. 
+
+
+</div>
+</div>
+
 
 #### Flying Inverted Pendulum Balanced on a Quadrotor
 
