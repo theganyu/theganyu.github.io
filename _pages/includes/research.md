@@ -7,10 +7,6 @@ The complete list of my research publications can be found at <a href='https://s
 
 
 
-
-
-
-
 #### Robust Control of Unmanned Aerial Vehicles in the presence of unknown time-varying dynamics
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Kalman_Automatica.jpeg' alt="sym" width="100%"></div></div>
@@ -48,7 +44,7 @@ The problem of trajectory tracking control of a quadrotor-slung-load system is a
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/load_window.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/window.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Aggressive maneuvers for a quadrotor-slung-load system through fast trajectory generation and tracking](https://www.sciencedirect.com/science/article/abs/pii/S0005109823003084), **Gan Yu**, David Cabecinhas, Rita Cunha, and Carlos Silvestre, Autonomous Robots, 2022 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:3fE2CSJIrl8C'></span></strong>
@@ -63,8 +59,9 @@ We propose a framework to efficiently generate aggressive load-swing trajectorie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/multi-quad-load.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities](https://ieeexplore.ieee.org/abstract/document/8768020), 
-Yanhu Wang, **Gan Yu**, Wei Xie, Weidong Zhang, and Carlos Silvestre, IEEE Transactions on Intelligent Transportation Systems, 2024 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:MXK_kJrjxJIC'></span></strong>
+[Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities](https://ieeexplore.ieee.org/abstract/document/10492665), 
+Yanhu Wang, **Gan Yu**, Wei Xie, Weidong Zhang, and Carlos Silvestre, IEEE Transactions on Intelligent Transportation Systems, 2024 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:RHpTSmoSYBkC'></span></strong>
+
 
 We investigate the tracking control of a multi-quadrotor slung-load system (MQSLS) and introduce a novel force distribution algorithm, which bifurcates the cooperative control to two distinct components: slung-load position control; and cable configuration control along with quadrotor attitude control. Employing this strategy results in a cooperative controller that: (i) relaxes the constraints on cable configuration; and (ii) requires only up to the third time derivative of the reference trajectory. 
 
@@ -77,7 +74,7 @@ We investigate the tracking control of a multi-quadrotor slung-load system (MQSL
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pendulum_2.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/IP.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Nonlinear 3D Control of an Inverted Pendulum Balanced on a Quadrotor](https://www.sciencedirect.com/user/identity/landing?code=YxY61b3eytwAoOcJH9nniKuEngHZYhHH-41HGmwd&state=retryCounter%3D0%26csrfToken%3Db37b314e-cfe0-4fc2-aed5-b1d6bbc9fc29%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0005109823005022%26prompt%3Dnone%26cid%3Darp-4063731c-285e-46cc-897d-20c81ac7ca52), Weiming Yang, **Gan Yu**, Joel Reis, and Carlos Silvestre, Automatica, 2024 <strong><span class='show_paper_citations' data='VPc2mpcAAAAJ:R3hNpaxXUhUC'></span></strong>
