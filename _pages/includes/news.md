@@ -2,6 +2,9 @@
 
 # News
 
+
+- *July 11, 2024*, I obtained the qualification as a doctoral advisor at SJTU.
+
 - *March 6, 2024*, we will be presenting two of our works at **ICRA2024**.
 
 - *March 5, 2024*, our manuscript titled "Robust Cooperative Transportation of a Cable-Suspended Payload by Multiple Quadrotors Featuring Cable-Reconfiguration Capabilities" has been accepted for publication in **IEEE Transactions on Intelligent Transportation Systems**.

@@ -29,9 +29,7 @@ redirect_from:
 {% include_relative includes/invited_talks.md %}
 
 <center>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w= 250&t=n&d=YaCEqTabkGhXbc9_VZFvuWg-a-Mfu1nj3xCZZdWZ5SY'></script>
-<br> &copy; Gan Yu | Last updated: May, 2024
+<br> &copy; Copyright 2024 Gan Yu. Last updated: July, 2024.
 </center>
 
 <!---  
